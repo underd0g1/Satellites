@@ -1,0 +1,30 @@
+{
+  "name": "satellites",
+  "version": "1.0.0",
+  "description": "satellite tracker and mms notify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/underd0g1/Satellites.git"
+  },
+  "keywords": [
+    "node.js",
+    "api",
+    "hackasat",
+    "atom"
+  ],
+  "author": "underd0g",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/underd0g1/Satellites/issues"
+  },
+  "homepage": "https://github.com/underd0g1/Satellites#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0"
+  }
+}
